@@ -52,7 +52,7 @@ STEP BY STEP INSTRUCTIONS
 1. Clone or Download the Repository
    bash
    git clone https://github.com/sakshishruti-art/Open-Source-Audit.git
-   cd OSS-audit-24BAI10361
+   cd OSS-audit-24BCE11530
 2. Make All Scripts Executable
    bash
    chmod +x \*.sh
