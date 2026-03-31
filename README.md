@@ -1,4 +1,3 @@
-# Open-Source-Audit
 # Open Source Audit Project - Git
 
 ## Student Information
